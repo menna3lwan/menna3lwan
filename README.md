@@ -52,11 +52,7 @@
 
 ---
 
-### 🐍 **GitHub Snake Animation** 🐍
 
-![Snake animation](https://raw.githubusercontent.com/menna3lwan/menna3lwan/output/github-contribution-grid-snake.svg)
-
----
 
 ### 💡 **Fun Fact** 💡
 When I'm not coding, you can find me exploring new tech trends, sipping coffee ☕, or brainstorming creative solutions to real-world problems! 🚀
