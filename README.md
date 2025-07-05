@@ -1,78 +1,101 @@
-# ✨ Menna Maher Elwan
+# Hi there, I'm Menna Elwan 👋
 
-**Mobile App Developer | CS & AI Student | Tech Explorer 🚀**
-
-Welcome to my GitHub space! I'm a passionate developer from Egypt focused on building impactful mobile experiences using **Flutter**, **Kotlin**, **Swift**, and more.
+I'm a dedicated **Mobile Developer** with strong skills in **Flutter**, **Java**, **Kotlin**, and **Swift**, driven by a passion for creating smooth, user-friendly mobile experiences. I specialize in **cross-platform and native app development**, integrating backend systems, and optimizing app performance for real-world impact.
 
 ---
 
-## 👩‍💻 About Me
+## 🚀 About Me
 
-- 🎓 Computer Science & AI student at **Benha University**
-- 📱 Skilled in **Flutter**, **Android (Java/Kotlin)**, **iOS (Swift)**
-- 🛠️ Experienced with SDLC, ISTQB testing, and performance optimization
-- 🏆 **7th place Nationwide** in Mobile Development – Digital Egypt Pioneers
-- 👩‍🏫 Instructor at Almentor – teaching programming & problem-solving
-- 🌱 Constantly learning and building to solve real-world problems
-
----
-
-## 🔧 Tech Stack
-
-- **Languages:** Dart, Java, Kotlin, Swift, Python, C++, C#, Scratch  
-- **Mobile Dev:** Flutter, Android, Firebase, REST APIs  
-- **Architectures:** MVVM, MVP  
-- **Tools:** Git, GitHub, Android Studio, Visual Studio Code  
-- **Practices:** Agile, SDLC, Clean Code, Software Testing (ISTQB)
+- 📱 Skilled in **Flutter**, **Java**, **Kotlin**, **Dart**, and **Swift**
+- 🧠 Strong background in **software testing** (ISTQB), **SDLC**, and **clean architecture** (MVP/MVVM)
+- 🛠️ Experienced in **Firebase**, **RESTful APIs**, and mobile performance tuning
+- 👩‍🏫 Former **coding instructor**, passionate about mentoring and sharing knowledge
+- 🏆 Ranked **7th nationwide** in the **Mobile Development Track** (Digital Egypt Pioneers)
 
 ---
 
-## 🏆 Achievements
+## 💻 Tech Stack
 
-- 🥇 Ranked **Top 7 Nationwide** in the Digital Egypt Pioneers Mobile Track
-- 👩‍🏫 Programming Instructor at **Almentor**
-- 🔬 Internships at **Fuzetek**, **PETROJET**, and **Mindset**
-- 💻 Participated in **ECPC 2023** (Competitive Programming)
+### 🚀 Mobile Development
+![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
----
-
-## 🚀 Projects
-
-| Project            | Tech Stack             | Description |
-|--------------------|------------------------|-------------|
-| **Fashion App**     | Flutter + API          | Wishlist, orders, and notifications |
-| **Work Sync App**   | Flutter + API          | Task and project collaboration |
-| **ToDo App**        | Flutter                | Task automation and offline sync |
-| **News App**        | Kotlin + Firebase      | Real-time headlines and article saving |
-| **Contact Manager** | Java + Firebase        | Sync contacts, call/message, groups |
-| **Gym App**         | Java                   | Workout tracker with class scheduling |
-| **Fitness App**     | Python                 | Plans, tracking, and device sync |
-| **Bank System**     | Java                   | Accounts, loans, reports, admin tools |
+### 🔧 Tools & Technologies
+![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-007ACC?style=for-the-badge)
+![MVP](https://img.shields.io/badge/MVP-blueviolet?style=for-the-badge)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-purple?style=for-the-badge)
 
 ---
 
-## 📊 GitHub Stats
+## 🧪 Projects Showcase
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=menna3lwan&show_icons=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=menna3lwan&layout=compact&theme=tokyonight)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=menna3lwan&theme=tokyonight)
+### 📲 Flutter & Cross-Platform Apps
+- **Fashion App** – Browse, wishlist, and track orders with real-time updates (Flutter + API)
+- **Work Sync App** – Team task manager with project tracking (Flutter + API)
+- **ToDo App** – Task automation, reminders, and offline sync (Flutter + API)
+
+### 🤖 Native Android Apps
+- **News App** – Personalized news feed with Firebase backend (Kotlin)
+- **Contact App** – Group contact manager with call/messaging support (Java + Firebase)
+- **Gym App** – Member management and class scheduling system (Java)
+
+### 💡 Other Projects
+- **Fitness App** (Python) – Workout & meal planning with activity tracking
+- **Bank Management System** (Java) – Secure finance manager with reports
+
+---
+
+## 👩‍💻 Experience Highlights
+
+- **Fuzetek Internship** – Real-world software testing, SDLC, and Python/C++ projects  
+- **PETROJET Internship** – Led debugging and optimization for enterprise mobile apps  
+- **Digital Egypt Pioneers** – Ranked 7th in Mobile Dev nationwide; built apps with best practices  
+- **Almentor Coding Instructor** – Taught programming basics & algorithms to students  
+- **Mindset Internship** – Created apps with state management (Provider, Riverpod)
+
+---
+
+## 🎓 Education
+
+**B.Sc. in Computer Science and Artificial Intelligence**  
+Benha University (2022 – Present)  
+- Hands-on projects, software engineering coursework, and team-based app development  
+- Active in competitions, tech clubs, and student workshops
+
+---
+
+## 🏅 Certifications & Competitions
+
+- 🥇 **7th Place in Mobile Development Track** – Digital Egypt Pioneers (2024)  
+- 💻 **ECPC Participant** – Egyptian Collegiate Programming Contest (2023)
 
 ---
 
 ## 🌐 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/menna-elwan/)
-- 📬 [Email](mailto:menna3lwan@gmail.com)
-- 💻 [GitHub](https://github.com/menna3lwan)
-- 🌍 [Portfolio Website](https://menna-elwan-portfolio.my.canva.site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/menna-elwan/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/menna3lwan)
 
 ---
 
-## 🎉 Fun Fact
+## 📊 GitHub Stats
 
-When I'm not coding, I'm sipping coffee ☕, mentoring future developers, or exploring cutting-edge tech trends!
+![](https://github-readme-stats.vercel.app/api?username=menna3lwan&theme=tokyonight&show_icons=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=menna3lwan&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=menna3lwan&layout=compact&theme=tokyonight)
 
 ---
 
-⭐ **Thanks for stopping by! Feel free to check out my repositories or get in touch for collaboration.**
+## 👀 Visitor Count
 
+![Visitor Count](https://profile-counter.glitch.me/menna3lwan/count.svg)
+
+---
+
+### Let’s build next-gen mobile experiences together! 🚀
