@@ -1,106 +1,78 @@
-<h1 align="center">👋 Hello World, I'm Menna Maher Elwan!</h1>
+# ✨ Menna Maher Elwan
 
-<p align="center">
-  🚀 Passionate Mobile App Developer • 🎓 CS & AI Student • 🇪🇬 Based in Egypt
-</p>
+**Mobile App Developer | CS & AI Student | Tech Explorer 🚀**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/menna-elwan/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="mailto:menna3lwan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/menna3lwan">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge" />
-  </a>
-  <a href="https://menna-elwan-portfolio.my.canva.site/">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?logo=google-chrome&style=for-the-badge" />
-  </a>
-</p>
+Welcome to my GitHub space! I'm a passionate developer from Egypt focused on building impactful mobile experiences using **Flutter**, **Kotlin**, **Swift**, and more.
 
 ---
 
-<img align="right" src="https://i.imgflip.com/65efzo.gif" width="230"/>
+## 👩‍💻 About Me
 
-### 👩‍💻 About Me
-
-- 📱 Mobile Developer (Flutter, Android, iOS)
-- 🛠️ Experienced in building scalable, real-world mobile apps
-- 🏅 7th Nationwide in Mobile Dev — *Digital Egypt Pioneers*
-- 🎓 Computer Science & AI student at Benha University
-- 🧠 Strong in SDLC, ISTQB Testing, and app optimization
-- 💬 Mentor & Instructor at Almentor
+- 🎓 Computer Science & AI student at **Benha University**
+- 📱 Skilled in **Flutter**, **Android (Java/Kotlin)**, **iOS (Swift)**
+- 🛠️ Experienced with SDLC, ISTQB testing, and performance optimization
+- 🏆 **7th place Nationwide** in Mobile Development – Digital Egypt Pioneers
+- 👩‍🏫 Instructor at Almentor – teaching programming & problem-solving
+- 🌱 Constantly learning and building to solve real-world problems
 
 ---
 
-### 🔥 GitHub Stats
+## 🔧 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=menna3lwan&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=menna3lwan&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
-### ⚙️ Tech Stack
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
-</div>
+- **Languages:** Dart, Java, Kotlin, Swift, Python, C++, C#, Scratch  
+- **Mobile Dev:** Flutter, Android, Firebase, REST APIs  
+- **Architectures:** MVVM, MVP  
+- **Tools:** Git, GitHub, Android Studio, Visual Studio Code  
+- **Practices:** Agile, SDLC, Clean Code, Software Testing (ISTQB)
 
 ---
 
-### 🚀 Highlight Projects
+## 🏆 Achievements
 
-| 💡 Project | 🔧 Tech Stack | 🌟 Features |
-|-----------|--------------|-------------|
-| **Fashion App** | Flutter + API | Wishlist, real-time notifications, order tracking |
-| **Work Sync** | Flutter + API | Task collaboration, progress visualization |
-| **ToDo App** | Flutter | Offline support, reminders, automation |
-| **News App** | Kotlin + Firebase | Personalized feeds, saved articles |
-| **Contact App** | Java + Firebase | Sync, group messaging, calling |
-| **Gym & Fitness** | Java & Python | Scheduling, health tracking |
-| **Bank System** | Java | Account/loan management, admin dashboard |
+- 🥇 Ranked **Top 7 Nationwide** in the Digital Egypt Pioneers Mobile Track
+- 👩‍🏫 Programming Instructor at **Almentor**
+- 🔬 Internships at **Fuzetek**, **PETROJET**, and **Mindset**
+- 💻 Participated in **ECPC 2023** (Competitive Programming)
 
 ---
 
-### 🧠 Skills
+## 🚀 Projects
 
-- **Languages:** Dart, Kotlin, Java, Swift, Python, C++, C#, Scratch
-- **Concepts:** SDLC, Agile, OOP, Algorithms, ISTQB
-- **Architecture:** MVVM, MVP
-- **Tools & Tech:** Flutter, Firebase, REST APIs, Git & GitHub
-- **Soft Skills:** Leadership, Teamwork, Communication, Mentoring
-
----
-
-### 💼 Internships & Achievements
-
-- **Fuzetek**: Real-world projects, Python/C++, software testing  
-- **Digital Egypt Pioneers**: Top 7 in Mobile Dev Track  
-- **Almentor**: Programming instructor for students  
-- **PETROJET & Mindset**: Debugging, optimization, state management  
+| Project            | Tech Stack             | Description |
+|--------------------|------------------------|-------------|
+| **Fashion App**     | Flutter + API          | Wishlist, orders, and notifications |
+| **Work Sync App**   | Flutter + API          | Task and project collaboration |
+| **ToDo App**        | Flutter                | Task automation and offline sync |
+| **News App**        | Kotlin + Firebase      | Real-time headlines and article saving |
+| **Contact Manager** | Java + Firebase        | Sync contacts, call/message, groups |
+| **Gym App**         | Java                   | Workout tracker with class scheduling |
+| **Fitness App**     | Python                 | Plans, tracking, and device sync |
+| **Bank System**     | Java                   | Accounts, loans, reports, admin tools |
 
 ---
 
-### 🎯 Fun Fact
+## 📊 GitHub Stats
 
-> When I’m not coding, I’m mentoring, sipping coffee ☕, or exploring the latest tech trends!  
-> I love solving real-world problems with creative digital solutions. 💡
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=menna3lwan&show_icons=true&theme=tokyonight&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=menna3lwan&layout=compact&theme=tokyonight)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=menna3lwan&theme=tokyonight)
 
 ---
 
-<p align="center">
-  💬 *"Let’s connect and create something impactful!"*  
-  ⭐ **Explore my repositories and feel free to reach out!**
-</p>
+## 🌐 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/menna-elwan/)
+- 📬 [Email](mailto:menna3lwan@gmail.com)
+- 💻 [GitHub](https://github.com/menna3lwan)
+- 🌍 [Portfolio Website](https://menna-elwan-portfolio.my.canva.site/)
+
+---
+
+## 🎉 Fun Fact
+
+When I'm not coding, I'm sipping coffee ☕, mentoring future developers, or exploring cutting-edge tech trends!
+
+---
+
+⭐ **Thanks for stopping by! Feel free to check out my repositories or get in touch for collaboration.**
+
