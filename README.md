@@ -16,7 +16,7 @@
 </div>
 <br>
 
-## 🚀 Languages and Tools:
+## Languages and Tools:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,kotlin,java,python,cpp,cs" />
     <img src="https://skillicons.dev/icons?i=github,git,androidstudio,vscode,figma,postman" /><br>
@@ -28,7 +28,7 @@
 </div>
 <br>
 
-## 🤝 Connect With Me:
+##  Connect With Me:
 <div align="center">
     <a href="https://www.linkedin.com/in/menna-elwan/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
