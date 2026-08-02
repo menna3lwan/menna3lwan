@@ -22,19 +22,18 @@
 
 ## About Me
 
-**Flutter Developer @ XPER-ERP · Cairo, Egypt**
+**Flutter Developer  **
 
 I'm a passionate mobile developer specializing in **Flutter** and native Android (Java/Kotlin), experienced in building scalable, user-friendly apps with a strong focus on performance, clean architecture, and backend integration.
 
-I'm also a Computer Science & Artificial Intelligence student at Benha University, ranked **7th nationwide** in the Mobile Development track of the **Digital Egypt Pioneers Initiative (DEPI)**. That foundation shapes how I approach engineering — clear separation of concerns, testable code, and disciplined state management applied to real-world mobile products, from a two-sided telemedicine platform to a full exam-taking client built on Bloc/Cubit.
 
 <br>
 
 ## Experience & Education
 
-**Flutter Developer** @ XPER-ERP *(current)* — Production Flutter development, Cairo, Egypt
+**Flutter Developer** @ XPER-ERP *(current)* — Production Flutter development
 
-**B.Sc. Computer Science & Artificial Intelligence** — Benha University (2022 – Present)
+**B.Sc. Computer Science & Artificial Intelligence** — Benha University (2022 – 2026)
 
 <details>
 <summary><b>Full internship & training history (7 roles)</b></summary>
