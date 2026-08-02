@@ -1,32 +1,29 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=32&center=true&vCenter=true&width=750&height=60&duration=4000&color=70A5FD&lines=Hi+there%2C+I'm+Menna+Elwan;Flutter+Developer;Mobile+Application+Engineer;Clean+Architecture+Advocate" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=110&section=header" alt="" />
 
-<br>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1200&color=70A5FD&center=true&vCenter=true&width=800&height=60&lines=Software+Developer+%C2%B7+Flutter+Engineer;Clean+Architecture+%26+SOLID+Advocate;Building+Scalable%2C+Testable+Mobile+Systems" alt="Typing SVG" />
+
+Cairo, Egypt · Computer Science & AI, Benha University
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/menna-elwan/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/menna3lwan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:menna3lwan@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-70A5FD?style=for-the-badge&logo=googlechrome&logoColor=white)](https://menna3lwan.github.io/Menna_Elwan.github.io/)
 
-</div>
+<br>
+
+### ᴀʙᴏᴜᴛ
+
+I'm a **Software Developer** whose primary focus is **Flutter** — building scalable, maintainable mobile applications guided by **Clean Architecture**, **SOLID**, and disciplined testing rather than just shipping features. I'm also a Computer Science & AI student at Benha University, ranked **7th nationwide** in DEPI's Mobile Development track. That foundation shows up in how I work: clear separation of concerns, predictable state management, and production-grade engineering, applied across a two-sided telemedicine platform, a Bloc/Cubit exam client, and open-source contributions to packages other developers depend on.
 
 <br>
 
-## About Me
-
-**Flutter Developer @ XPER-ERP · Cairo, Egypt**
-
-I'm a passionate mobile developer specializing in **Flutter** and native Android (Java/Kotlin), experienced in building scalable, user-friendly apps with a strong focus on performance, clean architecture, and backend integration.
-
-I'm also a Computer Science & Artificial Intelligence student at Benha University, ranked **7th nationwide** in the Mobile Development track of the **Digital Egypt Pioneers Initiative (DEPI)**. That foundation shapes how I approach engineering — clear separation of concerns, testable code, and disciplined state management applied to real-world mobile products, from a two-sided telemedicine platform to a full exam-taking client built on Bloc/Cubit.
-
-<br>
-
-## Experience
+### ᴇxᴘᴇʀɪᴇɴᴄᴇ
 
 | Role | Organization | Focus |
 |---|---|---|
-| **Flutter Developer** *(current)* | XPER-ERP | Production Flutter development |
+| **Flutter Developer** *(Jan – Jun 2026)* | EXPR-ERP | Production Flutter development in an ERP ecosystem |
 | Mobile Developer Intern | NTI | Clean Architecture, Git-based team workflows, unit testing |
 | Software Developing Intern | Dragons (Software with AI) | AI-integrated mobile solutions |
 | Mobile Developer Intern | Cellula Technologies | Flutter apps with REST API integration |
@@ -39,93 +36,105 @@ I'm also a Computer Science & Artificial Intelligence student at Benha Universit
 
 <br>
 
-## Technical Skills
+### ᴛᴇᴄʜɴɪᴄᴀʟ ꜱᴋɪʟʟꜱ
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-**Languages**
-Dart · Kotlin · Java · Python · C/C++ · HTML/CSS/JavaScript
-
-**Mobile Development**
-Flutter · Android SDK · iOS Development · Cross-Platform Apps
-
-**Architecture & Design Patterns**
-Clean Architecture · MVVM · MVI · Repository Pattern · Dependency Injection (GetIt, Injectable)
-
-</td>
-<td valign="top" width="50%">
+**Software Engineering**
+Clean Architecture · SOLID Principles · System Design · MVVM/MVI · Repository Pattern · Dependency Injection (GetIt, Injectable) · Performance Optimization
 
 **State Management**
 Bloc / Cubit · Provider · Riverpod
 
-**Backend & Integration**
-REST APIs (Dio, HTTP) · Firebase (Auth, Firestore, Cloud Messaging) · Supabase
+**Languages**
+Dart · Kotlin · Java · Python · C/C++
 
-**Tools & Workflow**
-Git & GitHub · Postman · Figma · VS Code · Android Studio · Agile/SDLC · ISTQB Testing
+</td>
+<td valign="top" width="50%">
+
+**Flutter & Mobile**
+Flutter · Android SDK · iOS · Cross-Platform Apps
+
+**Backend & Data**
+REST APIs (Dio, HTTP) · Firebase (Auth, Firestore, FCM) · Supabase
+
+**Quality & Workflow**
+Unit/Widget Testing · ISTQB Methodologies · Git & GitHub · Agile/SDLC
 
 </td>
 </tr>
 </table>
 
-<br>
-
-## Tech Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,androidstudio,firebase,supabase,git,github,postman,figma,vscode&theme=dark" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,firebase,supabase,androidstudio,git,github,postman,figma,vscode&theme=dark&v=2" alt="Tech stack icons" />
 
 </div>
 
 <br>
 
-## Featured Projects
+### ꜰᴇᴀᴛᴜʀᴇᴅ ᴘʀᴏᴊᴇᴄᴛꜱ
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**Hen Lehen (هُنَّ لَهُنَّ)** — Women-only telemedicine platform connecting female patients with female doctors across Egypt, with real-time chat, appointment booking, and clinic management, integrated with Firebase and Supabase.
+**Hen Lehen (هُنَّ لَهُنَّ)**
 [Patient App](https://github.com/menna3lwan/patient_app) · [Doctor App](https://github.com/menna3lwan/doctor_app)
 
-`Flutter` `Firebase` `Supabase` `Provider`
+*Challenge:* two-sided telemedicine platform for women-only healthcare, keeping patient and doctor clients consistent in real time.
+*Architecture:* Clean Architecture with a shared domain layer, Provider, Supabase sync + Firebase for auth/messaging.
+*Impact:* two production Flutter apps sharing one consistent set of business rules.
+
+`Flutter` `Firebase` `Supabase` `Provider` `Clean Architecture`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **[Exam App — Elevate Online Exams](https://github.com/menna3lwan/exam_app)**
-Production-ready Flutter client for browsing subjects, taking timed exams, and reviewing results, built on a feature-first Clean Architecture with Bloc/Cubit and Dio-based REST integration.
+
+*Challenge:* a timed-exam client where state consistency and error handling directly affect exam validity.
+*Architecture:* feature-first Clean Architecture, Bloc/Cubit for the exam-session state machine, Dio-based REST layer with typed error handling.
+*Impact:* production-ready client used for real online exams end-to-end.
 
 `Flutter` `Bloc/Cubit` `Clean Architecture` `REST API`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **[Movies App](https://github.com/menna3lwan/movie_app)**
-Scalable movie browsing app with Clean Architecture, the Repository pattern, and Injectable-based dependency injection. Built collaboratively with a 4-person team.
+
+*Challenge:* keep a growing 4-person codebase maintainable as features shipped in parallel.
+*Architecture:* Clean Architecture, Repository pattern, Injectable-based DI decoupling data sources from presentation.
+*Impact:* new features added without touching existing layers; low collaborative churn.
 
 `Flutter` `Provider` `Injectable` `Clean Architecture`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **[Tasky App](https://github.com/menna3lwan/tasky_app)**
-Task management app with daily streak tracking to build user habits, backed by Firebase Authentication, Firestore, and Cloud Messaging.
+
+*Challenge:* encourage consistent habit-building through daily task completion.
+*Architecture:* Clean Architecture, Firebase Auth/Firestore for persistence, Cloud Messaging for streak reminders.
+*Impact:* persistent, real-time task state across sessions and devices.
 
 `Flutter` `Firebase` `Clean Architecture`
 
 </td>
 </tr>
 <tr>
-<td width="50%" colspan="2">
+<td width="50%" colspan="2" valign="top">
 
 **[Fashion Store — DEPI Final Project](https://github.com/menna3lwan/Fashion-Store)**
-Collaborative capstone e-commerce app for the DEPI Flutter track, built with Firebase for authentication and data.
+
+*Challenge:* ship a complete e-commerce flow (auth, catalog, cart) as a team capstone under a fixed program deadline.
+*Architecture:* Flutter + Firebase for auth and data, coordinated through shared Git workflows.
+*Impact:* delivered as final DEPI Flutter-track capstone project.
 
 `Flutter` `Firebase`
 
@@ -141,43 +150,49 @@ Collaborative capstone e-commerce app for the DEPI Flutter track, built with Fir
 
 <br>
 
-## Achievements
+### ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ & ᴀᴄʜɪᴇᴠᴇᴍᴇɴᴛꜱ
 
-- **7th Place Nationwide** — Mobile Development Track, Digital Egypt Pioneers Initiative (Ministry of Communications & Information Technology, 2024)
+**Pull Request — [`bosskmk/pluto_grid`](https://github.com/bosskmk/pluto_grid) (745★ Flutter data-grid package)**
+Root-caused a state-notification bug: `setConfiguration()` and `setTextDirection()` updated the grid's internal state but never called `notifyListeners()`, so RTL/LTR and config changes silently failed to rebuild dependent cells. [Fixed it](https://github.com/bosskmk/pluto_grid/pull/1165) with a lifecycle-aware notification strategy — immediate for build-safe calls, deferred via `notifyListenersOnPostFrame()` where notifying mid-build would violate Flutter's build-phase rules — matching the package's existing patterns with zero API changes.
+
+- **Pull Shark** achievement for merged pull requests on other repositories
+- **7th Place Nationwide** — Mobile Development Track, Digital Egypt Pioneers Initiative (2024)
 - **ECPC Participant** — Egyptian Collegiate Programming Contest, 2023
-- Applied **ISTQB** software testing methodologies across professional internships
 
 <br>
 
-## Open Source & Collaboration
-
-- Active contributor on GitHub, recognized with the **Pull Shark** achievement for merged pull requests on other repositories.
-- Collaborated on **Movies App** and the **Fashion Store** DEPI capstone as part of small development teams, working through shared branching strategies and code review.
-- Maintains public repositories with detailed READMEs, architecture docs, and demo videos to keep projects approachable for other contributors.
-
-<br>
-
-## GitHub Analytics
+### ɢɪᴛʜᴜʙ ᴀᴄᴛɪᴠɪᴛʏ
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=menna3lwan&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub stats" />
-<img src="https://streak-stats.demolab.com/?user=menna3lwan&theme=tokyonight&hide_border=true" height="170" alt="GitHub streak stats" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=menna3lwan&show_icons=true&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=menna3lwan&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api?username=menna3lwan&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=menna3lwan&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=menna3lwan&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=menna3lwan&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak stats" />
+</picture>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=menna3lwan&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=menna3lwan&layout=compact&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=menna3lwan&layout=compact&theme=default&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=menna3lwan&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=menna3lwan&theme=tokyo-night&hide_border=true&height=165" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=menna3lwan&theme=minimal&hide_border=true&height=165" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=menna3lwan&theme=tokyo-night&hide_border=true&height=165" alt="Contribution activity graph" />
+</picture>
 
 </div>
 
 <br>
 
-## Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/menna-elwan/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/menna3lwan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:menna3lwan@gmail.com)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" alt="" />
 
 </div>
