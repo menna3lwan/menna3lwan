@@ -15,7 +15,7 @@ Cairo, Egypt · Computer Science & AI, Benha University
 
 ### ᴀʙᴏᴜᴛ
 
-I'm a **Software Developer** whose primary focus is **Flutter** — building scalable, maintainable mobile applications guided by **Clean Architecture**, **SOLID**, and disciplined testing rather than just shipping features. I'm also a Computer Science & AI student at Benha University, ranked **7th nationwide** in DEPI's Mobile Development track. That foundation shows up in how I work: clear separation of concerns, predictable state management, and production-grade engineering, applied across a two-sided telemedicine platform, a Bloc/Cubit exam client, and open-source contributions to packages other developers depend on.
+I'm a **Software Developer** whose primary focus is **Flutter** — building scalable, maintainable mobile applications guided by **Clean Architecture**, **SOLID**, and disciplined testing rather than just shipping features. I'm also a Computer Science & AI student at Benha University,  nationwide** in DEPI's Mobile Development track. That foundation shows up in how I work: clear separation of concerns, predictable state management, and production-grade engineering, applied across a two-sided telemedicine platform, a Bloc/Cubit exam client, and open-source contributions to packages other developers depend on.
 
 <br>
 
