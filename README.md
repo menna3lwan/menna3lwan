@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1200&color=70A5FD&center=true&vCenter=true&width=800&height=60&lines=Software+Developer+%C2%B7+Flutter+Engineer;Clean+Architecture+%26+SOLID+Advocate;Building+Scalable%2C+Testable+Mobile+Systems" alt="Typing SVG" />
 
-Cairo, Egypt · Computer Science & AI, Benha University
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/menna-elwan/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/menna3lwan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:menna3lwan@gmail.com)
