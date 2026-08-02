@@ -19,7 +19,7 @@ I'm a **Software Developer** whose primary focus is **Flutter** — building sca
 
 <br>
 
-**Education:** B.Sc. Computer Science & Artificial Intelligence, Benha University (2022 – Present)
+**Education:** B.Sc. Computer Science & Artificial Intelligence, Benha University (2022 – 2026)
 
 <br>
 
