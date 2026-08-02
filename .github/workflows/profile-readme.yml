@@ -1,10 +1,13 @@
 name: Update Profile README Widgets
 
+# NOTE: Kept on manual trigger only for now — this GitHub account currently
+# has an Actions billing lock ("account is locked due to a billing issue"),
+# so push/schedule triggers would just pile up failed runs. Once billing is
+# resolved, re-add `push`/`schedule` triggers and switch the README's
+# GitHub Analytics section back to the self-hosted /profile/*.svg cards and
+# the `output`-branch snake animation for a fully self-hosted, rate-limit-free
+# setup.
 on:
-  push:
-    branches: [main]
-  schedule:
-    - cron: "0 3 * * *" # daily at 03:00 UTC
   workflow_dispatch: {}
 
 permissions:
