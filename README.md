@@ -32,20 +32,20 @@ I'm a **Software Developer** whose primary focus is **Flutter** — building sca
 **Software Engineering**
 Clean Architecture · SOLID Principles · System Design · MVVM/MVI · Repository Pattern · Dependency Injection (GetIt, Injectable) · Performance Optimization
 
+**Flutter & Mobile**
+Flutter · Android SDK · iOS · Cross-Platform Apps · Dart, Kotlin, Java, Python, C/C++
+
 **State Management**
 Bloc / Cubit · Provider · Riverpod
-
-**Languages**
-Dart · Kotlin · Java · Python · C/C++
 
 </td>
 <td valign="top" width="50%">
 
-**Flutter & Mobile**
-Flutter · Android SDK · iOS · Cross-Platform Apps
-
 **Backend & Data**
 REST APIs (Dio, HTTP) · Firebase (Auth, Firestore, FCM) · Supabase
+
+**AI & Modern Development**
+AI-Assisted Development · LLM Integration · Prompt Engineering · AI Tools (ChatGPT, Claude, Cursor)
 
 **Quality & Workflow**
 Unit/Widget Testing · ISTQB Methodologies · Git & GitHub · Agile/SDLC
