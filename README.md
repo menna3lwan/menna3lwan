@@ -19,19 +19,6 @@ I'm a **Software Developer** whose primary focus is **Flutter** — building sca
 
 <br>
 
-### ᴇxᴘᴇʀɪᴇɴᴄᴇ
-
-| Role | Organization | Focus |
-|---|---|---|
-| **Flutter Developer** *(Jan – Jun 2026)* | EXPR-ERP | Production Flutter development in an ERP ecosystem |
-| Mobile Developer Intern | NTI | Clean Architecture, Git-based team workflows, unit testing |
-| Software Developing Intern | Dragons (Software with AI) | AI-integrated mobile solutions |
-| Mobile Developer Intern | Cellula Technologies | Flutter apps with REST API integration |
-| Mobile Developer Intern | Digital Egypt Pioneers Initiative (DEPI) | Ranked 7th nationwide, Mobile Development track |
-| Software Development Intern | Fuzetek | SDLC & ISTQB testing methodologies |
-| Coding Instructor | Almentor | Taught programming fundamentals & data structures |
-| Mobile Developer Intern | Mindset | Flutter UI with Provider/Riverpod state management |
-
 **Education:** B.Sc. Computer Science & Artificial Intelligence, Benha University (2022 – Present)
 
 <br>
